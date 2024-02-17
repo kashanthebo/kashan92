@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-link{
+    color: white;
+}
+.section2{
+    margin-top: 20%;
+}
+h1{
+    color: orangered;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    color: orangered;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+h2 span{
+    color: grey;
+}
+.pra{
+    padding: 0 200px;
+    color: gray;
+    font-weight: 600;
+    f
+}
